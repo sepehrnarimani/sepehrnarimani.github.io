@@ -4,7 +4,7 @@ title: chess
 description: it's a mind game that you can play with your friend
 img: assets/img/chess2.jpg
 importance: 3
-category: game
+category: fun
 ---
 
 Chess is a board game for two players, called White and Black, each controlling an army of chess pieces, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games such as xiangqi (Chinese chess) and shogi (Japanese chess). The recorded history of chess goes back at least to the emergence of a similar game, chaturanga, in seventh century India. The rules of chess as they are known today emerged in Europe at the end of the 15th century, with standardization and universal acceptance by the end of the 19th century. Today, chess is one of the world's most popular games, and is played by millions of people worldwide.
