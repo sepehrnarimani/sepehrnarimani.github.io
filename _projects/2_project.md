@@ -4,7 +4,7 @@ title: othello game
 description: It's a duo game
 img: assets/img/othello2.jpg
 importance: 2
-category: work
+category: game
 giscus_comments: true
 ---
 

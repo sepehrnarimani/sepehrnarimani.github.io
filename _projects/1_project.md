@@ -4,7 +4,7 @@ title: Mafia Game
 description: a group game
 img: assets/img/mafia1.jpg
 importance: 1
-category: work
+category: game
 related_publications: true
 ---
 
