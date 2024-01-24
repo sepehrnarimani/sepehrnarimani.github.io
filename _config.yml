@@ -374,10 +374,6 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 
-external_sources:
-  - name: medium.com  # name of the source (arbitrary string)
-    rss_url: https://medium.com/@<your-medium-username>/feed
-
 # -----------------------------------------------------------------------------
 # Library versions
 # -----------------------------------------------------------------------------
